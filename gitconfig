@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = valentin.chaput@gmail.com
+	name = valentinchaput
